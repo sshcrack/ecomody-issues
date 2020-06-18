@@ -1,7 +1,7 @@
 ---
 name: Questions
 about: Ask questions with that template
-title: ''
+title: "[Question]"
 labels: question
 assignees: ''
 
