@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for the sshbot
 title: "[FEATURE]"
-labels: Feature
+labels: enhancement
 assignees: ''
 
 ---
