@@ -1,2 +1,2 @@
 # Submit bugs reports here!
-Website: https:/ecomody.com
+Website: https://ecomody.com
